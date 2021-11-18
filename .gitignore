@@ -1,0 +1,8 @@
+*pyc
+*npz
+*._
+*.ckpt
+*swp
+minst/scratch/*
+mnist/data/*
+mnist/pretrain/*
